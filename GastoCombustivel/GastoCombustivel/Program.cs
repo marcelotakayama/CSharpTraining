@@ -12,7 +12,7 @@ namespace GastoCombustivel {
             int velocidade = int.Parse(Console.ReadLine());
 
             double result = (tempo * velocidade) / 12;
-
+            //teste
             Console.WriteLine(result.ToString("F3", CultureInfo.InvariantCulture));
         }
     }
