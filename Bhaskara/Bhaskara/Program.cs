@@ -13,15 +13,14 @@ namespace Bhaskara {
             double b = double.Parse(entrada[1], CultureInfo.InvariantCulture);
             double c = double.Parse(entrada[2], CultureInfo.InvariantCulture);
 
-            double delta = (b * b) - 4 * (a * c);
             double x1 = ((b*-1.0) + Math.Sqrt((b*b)-4 * a * c)) / (2 * a);
             double x2 = ((b*-1.0) - Math.Sqrt((b*b)-4 * a * c)) / (2 * a);
 
             if(a==0 || b==0 || c == 0) {
                 Console.WriteLine("Impossível calcular");
             } else {
-                Console.WriteLine(("R1" + x1), "F5", CultureInfo.InvariantCulture);
-                Console.WriteLine(("R2" + x2), "F5", CultureInfo.InvariantCulture);
+                Console.WriteLine("R1" + x1.ToString("0.00000"));
+                Console.WriteLine("R2" + x2.ToString("0.00000"));
             }
 
         }
