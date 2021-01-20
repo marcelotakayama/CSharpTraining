@@ -1,0 +1,7 @@
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\SortSimples\SortSimples\bin\Debug\SortSimples.exe.config
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\SortSimples\SortSimples\bin\Debug\SortSimples.exe
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\SortSimples\SortSimples\bin\Debug\SortSimples.pdb
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\SortSimples\SortSimples\obj\Debug\SortSimples.csprojAssemblyReference.cache
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\SortSimples\SortSimples\obj\Debug\SortSimples.csproj.CoreCompileInputs.cache
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\SortSimples\SortSimples\obj\Debug\SortSimples.exe
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\SortSimples\SortSimples\obj\Debug\SortSimples.pdb
