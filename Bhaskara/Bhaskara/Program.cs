@@ -19,8 +19,8 @@ namespace Bhaskara {
             if(a==0 || b==0 || c == 0) {
                 Console.WriteLine("Impossível calcular");
             } else {
-                Console.WriteLine("R1" + x1.ToString("0.00000"));
-                Console.WriteLine("R2" + x2.ToString("0.00000"));
+                Console.WriteLine("R1" + x1.ToString("0.00000"), CultureInfo.InvariantCulture);
+                Console.WriteLine("R2" + x2.ToString("0.00000"), CultureInfo.InvariantCulture);
             }
 
         }
