@@ -1,0 +1,7 @@
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\NotasMoedas\NotasMoedas\bin\Debug\NotasMoedas.exe.config
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\NotasMoedas\NotasMoedas\bin\Debug\NotasMoedas.exe
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\NotasMoedas\NotasMoedas\bin\Debug\NotasMoedas.pdb
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\NotasMoedas\NotasMoedas\obj\Debug\NotasMoedas.csprojAssemblyReference.cache
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\NotasMoedas\NotasMoedas\obj\Debug\NotasMoedas.csproj.CoreCompileInputs.cache
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\NotasMoedas\NotasMoedas\obj\Debug\NotasMoedas.exe
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\NotasMoedas\NotasMoedas\obj\Debug\NotasMoedas.pdb
