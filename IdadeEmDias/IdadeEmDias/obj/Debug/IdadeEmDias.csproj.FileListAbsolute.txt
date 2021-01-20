@@ -1,0 +1,7 @@
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\IdadeEmDias\IdadeEmDias\bin\Debug\IdadeEmDias.exe.config
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\IdadeEmDias\IdadeEmDias\bin\Debug\IdadeEmDias.exe
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\IdadeEmDias\IdadeEmDias\bin\Debug\IdadeEmDias.pdb
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\IdadeEmDias\IdadeEmDias\obj\Debug\IdadeEmDias.csprojAssemblyReference.cache
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\IdadeEmDias\IdadeEmDias\obj\Debug\IdadeEmDias.csproj.CoreCompileInputs.cache
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\IdadeEmDias\IdadeEmDias\obj\Debug\IdadeEmDias.exe
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\IdadeEmDias\IdadeEmDias\obj\Debug\IdadeEmDias.pdb
