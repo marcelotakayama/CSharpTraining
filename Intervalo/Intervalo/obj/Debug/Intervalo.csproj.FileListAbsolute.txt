@@ -1,0 +1,7 @@
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\Intervalo\Intervalo\bin\Debug\Intervalo.exe.config
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\Intervalo\Intervalo\bin\Debug\Intervalo.exe
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\Intervalo\Intervalo\bin\Debug\Intervalo.pdb
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\Intervalo\Intervalo\obj\Debug\Intervalo.csprojAssemblyReference.cache
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\Intervalo\Intervalo\obj\Debug\Intervalo.csproj.CoreCompileInputs.cache
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\Intervalo\Intervalo\obj\Debug\Intervalo.exe
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\Intervalo\Intervalo\obj\Debug\Intervalo.pdb
