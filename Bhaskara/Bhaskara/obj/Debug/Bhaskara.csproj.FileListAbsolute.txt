@@ -1,0 +1,7 @@
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\Bhaskara\Bhaskara\bin\Debug\Bhaskara.exe.config
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\Bhaskara\Bhaskara\bin\Debug\Bhaskara.exe
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\Bhaskara\Bhaskara\bin\Debug\Bhaskara.pdb
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\Bhaskara\Bhaskara\obj\Debug\Bhaskara.csprojAssemblyReference.cache
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\Bhaskara\Bhaskara\obj\Debug\Bhaskara.csproj.CoreCompileInputs.cache
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\Bhaskara\Bhaskara\obj\Debug\Bhaskara.exe
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\Bhaskara\Bhaskara\obj\Debug\Bhaskara.pdb
