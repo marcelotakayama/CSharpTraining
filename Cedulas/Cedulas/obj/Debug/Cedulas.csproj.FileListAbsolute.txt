@@ -1,0 +1,7 @@
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\Cedulas\Cedulas\bin\Debug\Cedulas.exe.config
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\Cedulas\Cedulas\bin\Debug\Cedulas.exe
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\Cedulas\Cedulas\bin\Debug\Cedulas.pdb
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\Cedulas\Cedulas\obj\Debug\Cedulas.csprojAssemblyReference.cache
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\Cedulas\Cedulas\obj\Debug\Cedulas.csproj.CoreCompileInputs.cache
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\Cedulas\Cedulas\obj\Debug\Cedulas.exe
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\Cedulas\Cedulas\obj\Debug\Cedulas.pdb
