@@ -1,0 +1,6 @@
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\TempoDeJogo\TempoDeJogo\bin\Debug\TempoDeJogo.exe.config
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\TempoDeJogo\TempoDeJogo\bin\Debug\TempoDeJogo.exe
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\TempoDeJogo\TempoDeJogo\bin\Debug\TempoDeJogo.pdb
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\TempoDeJogo\TempoDeJogo\obj\Debug\TempoDeJogo.csproj.CoreCompileInputs.cache
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\TempoDeJogo\TempoDeJogo\obj\Debug\TempoDeJogo.exe
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\TempoDeJogo\TempoDeJogo\obj\Debug\TempoDeJogo.pdb
