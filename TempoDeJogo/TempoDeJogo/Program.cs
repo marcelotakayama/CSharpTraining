@@ -12,6 +12,7 @@ namespace TempoDeJogo {
             int a = int.Parse(entrada[0]);
             int b = int.Parse(entrada[1]);
 
+            //teste
             if (a > b) {
                 Console.WriteLine("O JOGO DUROU " +  (24 - a + b) + " HORA(S)");
             } else if (a < b) {
