@@ -44,6 +44,7 @@ namespace SortSimples {
                     meio = n2;
                     maior = n1;
                 }
+                //teste
             Console.WriteLine(menor);
             Console.WriteLine(meio);
             Console.WriteLine(maior);
