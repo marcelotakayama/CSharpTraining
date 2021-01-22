@@ -1,0 +1,7 @@
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\SeisNumerosImpares\SeisNumerosImpares\bin\Debug\SeisNumerosImpares.exe.config
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\SeisNumerosImpares\SeisNumerosImpares\bin\Debug\SeisNumerosImpares.exe
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\SeisNumerosImpares\SeisNumerosImpares\bin\Debug\SeisNumerosImpares.pdb
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\SeisNumerosImpares\SeisNumerosImpares\obj\Debug\SeisNumerosImpares.csprojAssemblyReference.cache
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\SeisNumerosImpares\SeisNumerosImpares\obj\Debug\SeisNumerosImpares.csproj.CoreCompileInputs.cache
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\SeisNumerosImpares\SeisNumerosImpares\obj\Debug\SeisNumerosImpares.exe
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\SeisNumerosImpares\SeisNumerosImpares\obj\Debug\SeisNumerosImpares.pdb
