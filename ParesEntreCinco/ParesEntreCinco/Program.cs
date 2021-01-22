@@ -11,7 +11,7 @@ namespace ParesEntreCinco {
 
             for (int i = 0; i < 5; i++) {
                 int entrada = int.Parse(Console.ReadLine());
-                if (entrada > 0) {
+                if (entrada % 2 == 0) {
                     pares++;
                 }
             }
