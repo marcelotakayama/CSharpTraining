@@ -19,7 +19,7 @@ namespace PositivosMedia {
             }
             media = media / positivo;
             Console.WriteLine(positivo + " valoras positivos");
-            Console.WriteLine(media);
+            Console.WriteLine("Média: " + media);
         }
     }
 }
