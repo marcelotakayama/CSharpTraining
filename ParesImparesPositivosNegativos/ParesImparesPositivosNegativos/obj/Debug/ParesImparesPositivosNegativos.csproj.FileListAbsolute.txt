@@ -1,0 +1,6 @@
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\ParesImparesPositivosNegativos\ParesImparesPositivosNegativos\bin\Debug\ParesImparesPositivosNegativos.exe.config
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\ParesImparesPositivosNegativos\ParesImparesPositivosNegativos\bin\Debug\ParesImparesPositivosNegativos.exe
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\ParesImparesPositivosNegativos\ParesImparesPositivosNegativos\bin\Debug\ParesImparesPositivosNegativos.pdb
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\ParesImparesPositivosNegativos\ParesImparesPositivosNegativos\obj\Debug\ParesImparesPositivosNegativos.csproj.CoreCompileInputs.cache
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\ParesImparesPositivosNegativos\ParesImparesPositivosNegativos\obj\Debug\ParesImparesPositivosNegativos.exe
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\ParesImparesPositivosNegativos\ParesImparesPositivosNegativos\obj\Debug\ParesImparesPositivosNegativos.pdb
