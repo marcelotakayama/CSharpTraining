@@ -11,7 +11,6 @@ namespace NumerosImpares {
             int cont = 0;
             for(int i=0; i<entrada; i++) {
                 if(i % 2 != 0) {
-                    //d
                     Console.WriteLine(i);
                     cont++;
                 }
