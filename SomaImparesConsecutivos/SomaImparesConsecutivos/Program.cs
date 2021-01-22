@@ -10,14 +10,12 @@ namespace SomaImparesConsecutivos {
             int a = int.Parse(Console.ReadLine());
             int b = int.Parse(Console.ReadLine());
             int impar = 0;
-
             for(int i=0; i<b; i++) {
                 if(i%2 != 0) {
                     impar++;
                 }
             }//a
             Console.WriteLine(impar);
-
         }
     }
 }
