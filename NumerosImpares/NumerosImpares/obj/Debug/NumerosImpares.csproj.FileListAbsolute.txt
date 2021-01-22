@@ -1,0 +1,7 @@
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\NumerosImpares\NumerosImpares\bin\Debug\NumerosImpares.exe.config
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\NumerosImpares\NumerosImpares\bin\Debug\NumerosImpares.exe
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\NumerosImpares\NumerosImpares\bin\Debug\NumerosImpares.pdb
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\NumerosImpares\NumerosImpares\obj\Debug\NumerosImpares.csprojAssemblyReference.cache
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\NumerosImpares\NumerosImpares\obj\Debug\NumerosImpares.csproj.CoreCompileInputs.cache
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\NumerosImpares\NumerosImpares\obj\Debug\NumerosImpares.exe
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\NumerosImpares\NumerosImpares\obj\Debug\NumerosImpares.pdb
