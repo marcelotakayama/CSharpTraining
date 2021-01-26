@@ -1,0 +1,7 @@
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\MediasPonderadas\MediasPonderadas\bin\Debug\MediasPonderadas.exe.config
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\MediasPonderadas\MediasPonderadas\bin\Debug\MediasPonderadas.exe
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\MediasPonderadas\MediasPonderadas\bin\Debug\MediasPonderadas.pdb
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\MediasPonderadas\MediasPonderadas\obj\Debug\MediasPonderadas.csprojAssemblyReference.cache
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\MediasPonderadas\MediasPonderadas\obj\Debug\MediasPonderadas.csproj.CoreCompileInputs.cache
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\MediasPonderadas\MediasPonderadas\obj\Debug\MediasPonderadas.exe
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\MediasPonderadas\MediasPonderadas\obj\Debug\MediasPonderadas.pdb
