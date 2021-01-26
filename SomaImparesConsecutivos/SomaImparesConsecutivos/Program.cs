@@ -17,5 +17,5 @@ namespace SomaImparesConsecutivos {
             }//a
             Console.WriteLine(impar);
         }
-    }
+    }//d
 }
