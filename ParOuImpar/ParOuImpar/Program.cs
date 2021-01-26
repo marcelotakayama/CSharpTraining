@@ -8,7 +8,6 @@ namespace ParOuImpar {
     class Program {
         static void Main(string[] args) {
             int qtd = int.Parse(Console.ReadLine());
-            int saida = 0;
             for (int i = 1; i <= qtd; i++) {
                 int entrada = int.Parse(Console.ReadLine());
                 
