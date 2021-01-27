@@ -1,0 +1,7 @@
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\MaiorEPosicao\MaiorEPosicao\bin\Debug\MaiorEPosicao.exe.config
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\MaiorEPosicao\MaiorEPosicao\bin\Debug\MaiorEPosicao.exe
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\MaiorEPosicao\MaiorEPosicao\bin\Debug\MaiorEPosicao.pdb
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\MaiorEPosicao\MaiorEPosicao\obj\Debug\MaiorEPosicao.csprojAssemblyReference.cache
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\MaiorEPosicao\MaiorEPosicao\obj\Debug\MaiorEPosicao.csproj.CoreCompileInputs.cache
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\MaiorEPosicao\MaiorEPosicao\obj\Debug\MaiorEPosicao.exe
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\MaiorEPosicao\MaiorEPosicao\obj\Debug\MaiorEPosicao.pdb
