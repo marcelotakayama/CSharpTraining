@@ -27,6 +27,7 @@ namespace TipoDeCombustivel {
                         break;
                 }
             }
+            //teste
             Console.WriteLine("MUITO OBRIGADO");
             Console.WriteLine("Alcool: " + alcool);
             Console.WriteLine("Gasolina: " + gasolina);
