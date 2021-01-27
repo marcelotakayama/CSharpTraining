@@ -13,7 +13,7 @@ namespace Experiencias {
             int coelhos = 0;
             int total = 0;
 
-            int pcoelho = (total / 100) * coelhos;
+            int pcoelho = (total / 100);// * coelhos;
             int prato = (total / 100) * ratos;
             int psapo = (total / 100) * sapos;
 
