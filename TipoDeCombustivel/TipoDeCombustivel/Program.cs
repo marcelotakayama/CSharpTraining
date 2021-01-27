@@ -12,7 +12,7 @@ namespace TipoDeCombustivel {
             int gasolina = 0;
             int diesel = 0;
 
-            for (int i=0; i<5; i++) {
+            for (int i=0; i<6; i++) {
                 int entrada = int.Parse(Console.ReadLine());
 
                 switch (entrada) {
