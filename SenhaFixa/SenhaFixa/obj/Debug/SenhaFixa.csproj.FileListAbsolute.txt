@@ -1,0 +1,7 @@
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\SenhaFixa\SenhaFixa\bin\Debug\SenhaFixa.exe.config
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\SenhaFixa\SenhaFixa\bin\Debug\SenhaFixa.exe
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\SenhaFixa\SenhaFixa\bin\Debug\SenhaFixa.pdb
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\SenhaFixa\SenhaFixa\obj\Debug\SenhaFixa.csprojAssemblyReference.cache
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\SenhaFixa\SenhaFixa\obj\Debug\SenhaFixa.csproj.CoreCompileInputs.cache
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\SenhaFixa\SenhaFixa\obj\Debug\SenhaFixa.exe
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\SenhaFixa\SenhaFixa\obj\Debug\SenhaFixa.pdb
