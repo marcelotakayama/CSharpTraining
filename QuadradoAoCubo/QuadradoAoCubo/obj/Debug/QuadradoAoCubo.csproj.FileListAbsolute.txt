@@ -1,0 +1,7 @@
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\QuadradoAoCubo\QuadradoAoCubo\bin\Debug\QuadradoAoCubo.exe.config
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\QuadradoAoCubo\QuadradoAoCubo\bin\Debug\QuadradoAoCubo.exe
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\QuadradoAoCubo\QuadradoAoCubo\bin\Debug\QuadradoAoCubo.pdb
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\QuadradoAoCubo\QuadradoAoCubo\obj\Debug\QuadradoAoCubo.csprojAssemblyReference.cache
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\QuadradoAoCubo\QuadradoAoCubo\obj\Debug\QuadradoAoCubo.csproj.CoreCompileInputs.cache
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\QuadradoAoCubo\QuadradoAoCubo\obj\Debug\QuadradoAoCubo.exe
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\QuadradoAoCubo\QuadradoAoCubo\obj\Debug\QuadradoAoCubo.pdb
