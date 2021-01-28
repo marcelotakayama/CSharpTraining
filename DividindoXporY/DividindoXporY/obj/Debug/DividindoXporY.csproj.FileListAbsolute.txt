@@ -1,0 +1,7 @@
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\DividindoXporY\DividindoXporY\bin\Debug\DividindoXporY.exe.config
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\DividindoXporY\DividindoXporY\bin\Debug\DividindoXporY.exe
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\DividindoXporY\DividindoXporY\bin\Debug\DividindoXporY.pdb
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\DividindoXporY\DividindoXporY\obj\Debug\DividindoXporY.csprojAssemblyReference.cache
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\DividindoXporY\DividindoXporY\obj\Debug\DividindoXporY.csproj.CoreCompileInputs.cache
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\DividindoXporY\DividindoXporY\obj\Debug\DividindoXporY.exe
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\DividindoXporY\DividindoXporY\obj\Debug\DividindoXporY.pdb
