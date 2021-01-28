@@ -1,0 +1,7 @@
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\Idades\Idades\bin\Debug\Idades.exe.config
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\Idades\Idades\bin\Debug\Idades.exe
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\Idades\Idades\bin\Debug\Idades.pdb
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\Idades\Idades\obj\Debug\Idades.csprojAssemblyReference.cache
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\Idades\Idades\obj\Debug\Idades.csproj.CoreCompileInputs.cache
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\Idades\Idades\obj\Debug\Idades.exe
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpTraining\Idades\Idades\obj\Debug\Idades.pdb
